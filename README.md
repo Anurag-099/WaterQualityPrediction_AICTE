@@ -16,7 +16,8 @@ This project explores a **multi-output machine learning regression approach** to
 - **Python 3.12**
 - **Pandas, NumPy** – Data handling and manipulation  
 - **Scikit-learn** – Machine learning model implementation  
-- **Matplotlib, Seaborn** – Data visualization  
+- **Matplotlib, Seaborn** – Data visualization
+- **Streamlit** – Deployment
 - **Jupyter Notebook** – Interactive development environment  
 
 ---
@@ -82,7 +83,6 @@ Feel free to **connect** with me or explore the project notebook for more detail
 
 - Add **hyperparameter tuning** for the model  
 - Experiment with other algorithms like **XGBoost**, **SVR**, or **Neural Networks**
-- Deploy the model with a **Streamlit or Flask web app** for public testing
 
 ---
 
